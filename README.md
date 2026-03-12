@@ -14,171 +14,166 @@
 在这个小小的课程里，我们打算给各位探员传授以下核心能力哦 (可以去看看 ISCB 官方能力指南 呢)：
 
 1.知识与技能储备：带你深度解锁科学探索的全过程，看清生信在其中扮演的超级英雄角色！🧬
-
 2.理解与应用大爆发：教你在分子生物学、基因组学、医学或群体遗传学研究的战场上，灵活运用统计学、机器学习和数据科学的各种“奇妙算法”！📊
-
 3.实战与落地：手把手教你掌握最适合本专业的命令行操作和脚本编写技能，变身赛博生信高手！💻
-
 4.知识与管理：学会如何优雅地管理海量数据，让数据们乖乖听话不乱跑！🗄️
 
-### Learning Objectives
-To attain the above competencies, the workshop participants should be able to:
-1. Describe the application of machine learning in genomics
-2. Explain the various machine learning principles and how they can be applied to genomics
-3. Explain the research design approaches as applied to machine learning for genomics
-4. Know the various open science tools (Jupyter Notebooks, Pandas, Conda)and how they support a reproducible bioinformatics research
-5. Know the various machine learning frameworks in Python
+### 🎯 学习目标 (Learning Objectives)
+
+为了达成上述这些超厉害的能力，各位探员在工作坊结束时应该能够：
+
+1. **描述**机器学习在基因组学中的各种奇妙应用 🧬
+2. **解释**各种机器学习原理，以及它们是如何变身为基因组学的强大助手的 🤖
+3. **解释**应用于基因组机器学习的研究设计方法（也就是规划你的“魔法路径”啦！）📐
+4. **熟练掌握**各种开源科学工具（比如 Jupyter Notebooks, Pandas, Conda），并了解它们如何支持生信研究的“时空复原术”（可重复性研究）！🧪
+5. **认识** Python 中各种超好用的机器学习框架（也就是你的赛博魔法阵法包哦！）🐍
 
 
-### Learning Outcomes
-From the above objectives, the workshop participant should acquire the following skills;
-1. Be able to set up Jupyter and Conda environments for machine learning for a genomic project to ensure reproducibility
-2. Be able to transform genomic data for machine learning modelling
-3. Be able to perform exploratory analysis on genomic data, feature engineering, and parameter selection
-4. Be able to develop and validate machine learning models using genomic data
+### 🎓 学习成果 (Learning Outcomes)
 
-### Instructors
-1. Caleb Kibet
-2. 
+通过上述目标的修炼，各位探员将掌握以下核心技能：
 
-### Who should attend?
+1. **环境构筑术**：能够为基因组项目搭建 Jupyter 和 Conda 的机器学习环境，确保你的研究拥有像“时间回溯”一样的完美复现能力！🧪
+2. **数据大变身**：能够将原始的基因组数据进行华丽转化，变成适合机器学习建模的“能量矩阵”！⚡
+3. **精准定位**：能够对基因组数据进行探索性分析、特征工程和参数选择（就像在数据迷雾中精准定位目标的探员一样呢！）。🔍
+4. **模型进化**：能够利用基因组数据开发并验证机器学习模型，成为真正掌控生命编码的建模高手！🤖
 
-EANBiT Fellows
+## 📜 课程目录 (Contents)
 
-## Contents
+本课程被划分为若干个交互式魔法笔记（也就是讲座啦！）。
 
-This course is broken up into several notebooks (lectures).
+### 🧊 第一阶段：基础构建 (Session 1)
 
-### Session 1
-* [Notebook_01](Notebooks/01_Basic_Concepts.ipynb) Machine learning Concepts 
-    * [Module_01_Slides](https://docs.google.com/presentation/d/1PhknhMdooQT860csFINj3IgxDDnkF-C3WKSI79CXdv4/edit?usp=sharing) Introduction to machine learning
-    * [Module_02_Slides](https://docs.google.com/presentation/d/130bKZj6bScQ9NGykzbUsjjoYbYsmJFAWnYRGzbf-S4U/edit?usp=sharing) Machine Leaning Deep Dive
-
-* [Notebook_02](Notebooks/02_Linear_Regression.ipynb) Linear regression
-    * [Module 03_Slides](https://docs.google.com/presentation/d/16VhmU8YMTqHkUYXwOVapR88wFLRIIoHwqLQ6QhcD7LU/edit?usp=sharing) Introduction to Linear Regression
+* [魔法笔记 01](https://www.google.com/search?q=Notebooks/01_Basic_Concepts.ipynb) 机器学习核心概念
+* [模块 01 幻灯片](https://docs.google.com/presentation/d/1PhknhMdooQT860csFINj3IgxDDnkF-C3WKSI79CXdv4/edit?usp=sharing) 机器学习入门：初识魔法
+* [模块 02 幻灯片](https://docs.google.com/presentation/d/130bKZj6bScQ9NGykzbUsjjoYbYsmJFAWnYRGzbf-S4U/edit?usp=sharing) 机器学习深潜：探寻更深层的咒语
 
 
-### Session 2
-* [Notebook_03](Notebooks/03_RandomForest_DecisionTree.ipynb) Random Forest and Decision Trees
-* [Notebook_04](Intro-to-Python/04_Feature_Engineering_genomics.ipynb) Feature Engineering in Genomics
-    * [Module_04_Slides](https://docs.google.com/presentation/d/1bZmmy2JcAWZf6RuwUZVccKSHvUSqL1SgdZ5RAO_vK7g/edit?usp=sharing) Decision Trees
+* [魔法笔记 02](https://www.google.com/search?q=Notebooks/02_Linear_Regression.ipynb) 线性回归：预测未来的直线
+* [模块 03 幻灯片](https://docs.google.com/presentation/d/16VhmU8YMTqHkUYXwOVapR88wFLRIIoHwqLQ6QhcD7LU/edit?usp=sharing) 线性回归入门：画出命运的曲线
 
 
-### Session 3
-* [Notebook_05](Notebooks/05_Feature_Engineering_NLP.ipynb) Feature Engineering Example using NLP
+
+### 🌳 第二阶段：森林与基因 (Session 2)
+
+* [魔法笔记 03](https://www.google.com/search?q=Notebooks/03_RandomForest_DecisionTree.ipynb) 随机森林与决策树：在迷宫中寻找答案
+* [魔法笔记 04](https://www.google.com/search?q=Intro-to-Python/04_Feature_Engineering_genomics.ipynb) 基因组学中的特征工程：提取生命的信号
+* [模块 04 幻灯片](https://docs.google.com/presentation/d/1bZmmy2JcAWZf6RuwUZVccKSHvUSqL1SgdZ5RAO_vK7g/edit?usp=sharing) 决策树深意：逻辑的分叉口
 
 
-### Session 4
-* [Notebook_06](Intro-to-Python/06_MachineLeaning_VCF.ipynb) Machine Learning Using VCF output: Dimensionality Reduction
 
-# Quick Introduction to Jupyter Notebooks
+### 💬 第三阶段：语言的秘密 (Session 3)
 
-Throughout this course, we will be using Jupyter Notebooks. 
+* [魔法笔记 05](https://www.google.com/search?q=Notebooks/05_Feature_Engineering_NLP.ipynb) 自然语言处理 (NLP) 特征工程实例：让机器听懂悄悄话
 
-## Introduction
-The Jupyter Notebook is an interactive computing environment that enables users to author notebooks, which contain a complete and self-contained record of a computation. These notebooks can be shared more efficiently. The notebooks may contain:
-* Live code
-* Interactive widgets
-* Plots
-* Narrative text
-* Equations
-* Images
-* Video
+### 🔬 第四阶段：高维解构 (Session 4)
 
-It is good to note that "Jupyter" is a loose acronym meaning Julia, Python, and R; the primary languages supported by Jupyter. 
+* [魔法笔记 06](https://www.google.com/search?q=Intro-to-Python/06_MachineLeaning_VCF.ipynb) 利用 VCF 输出进行机器学习：降维分析的艺术
 
-The notebook can allow a computational researcher to create reproducible documentation of their research. As Bioinformatics is datacentric, the use of Jupyter Notebooks increases research transparency, hence promoting open science. 
+顺手解决某人的困扰（实验室助手再次上线！）：
 
-## Pre-requisites
-Machine learning for genomics assumes familiarity with Python and Pandas. Please have a look at the [Python4Bioinformatics](https://github.com/kipkurui/Python4Bioinformatics) training materials for a refresher. 
+# 📓 Jupyter Notebooks 快速入门 (Quick Introduction)
 
-## First Steps
+在整个课程中，我们都会用到超级好用的 **Jupyter Notebooks** 哦！
 
-### Installation
+## 🌟 简介 (Introduction)
 
-1. [Download Miniconda](https://www.anaconda.com/download/) for your specific OS to your home directory
-    - Linux: `wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh`
-    - Mac: `curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh`
-2. Run:
-    - `bash Miniconda3-latest-Linux-x86_64.sh`
-    - `bash Miniconda3-latest-MacOSX-x86_64.sh`
-3. Follow all the prompts: if unsure, accept defaults
-4. Close and re-open your terminal
-5. If the installation is successful, you should see a list of installed packages with
-    - `conda list`
+Jupyter Notebook 是一个超棒的交互式计算环境，它能让研究员们编写出包含完整计算记录的“魔法笔记本”。这些笔记分享起来非常方便，里面可以装载各种宝贝：
 
-If the command cannot be found, you can add the Anaconda bin to the path using:
-    `export PATH=~/miniconda3/bin:$PATH`
+* 实时运行的代码 🐍
+* 交互式小部件
+* 各种酷炫的图表 📊
+* 叙述性文本（就是你现在看到的这种）
+* 数学公式
+* 图片、视频，应有尽有！🎬
 
-For reproducible analysis, you can [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html) with all the Python packages you used.
+悄悄告诉你，“Jupyter”其实是一个缩写，代表了它支持的三大主要魔法语言：**Ju**lia、**Py**thon 和 **R**。
 
-    `conda create --name ml_genomics python jupyter`
-    
-To activate the conda environment:
+对于赛博研究员来说，这种笔记本可以创建出“可重复”的研究文档。既然生信（Bioinformatics）是以数据为中心的，使用 Jupyter Notebook 就能大大增加研究的透明度，一起推动开放科学的发展吧！✨
 
-    `source activate ml_genomics`
+## 🛠️ 前置准备 (Pre-requisites)
 
-Having set-up conda environment, you can install `jupyter lab` using pip. 
+学习基因组学中的机器学习，需要探员你已经熟悉了 Python 和 Pandas 咒语。如果你觉得有点生疏，可以去看看 [Python4Bioinformatics](https://github.com/kipkurui/Python4Bioinformatics) 训练材料复习一下哟！
 
-`conda install -c conda-forge jupyterlab`
+## 🚀 第一步 (First Steps)
 
-or by using pip
+### 安装 (Installation)
 
-`pip3 install jupyter`
+1. **下载 Miniconda**：根据你的操作系统，把这个小巧的工具下载到你的家目录：
+* [下载地址](https://www.anaconda.com/download/)
+* Linux 探员：`wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+* Mac 探员：`curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh`
 
-## How to learn from this resource?
 
-Download all the notebooks from [MachineLearning4Genomics](https://github.com/mbbu/MachineLearning4Genomics). The easiest way to do that is to clone the GitHub repository to your working directory using any of the following commands:
+2. **运行安装脚本**：
+* Linux: `bash Miniconda3-latest-Linux-x86_64.sh`
+* Mac: `bash Miniconda3-latest-MacOSX-x86_64.sh`
 
-    git clone https://github.com/mbbu/MachineLearning4Genomics.git
 
-or
+3. **跟随提示操作**：如果不确定的话，一路按回车接受默认设置（Defaults）就好啦！
+4. **重启终端**：关掉窗口再重新打开。
+5. **验证成功**：输入 `conda list`，如果你看到一长串安装包列表，那就说明魔法阵布置成功了！
 
-    wget https://github.com/mbbu/MachineLearning4Genomics/archive/master.zip
-    
-    unzip master.zip
-    
-    rm master.zip
-    
-    cd MachineLearning4Genomics-master
-    
-Then you can quickly launch jupyter lab using:
+如果系统提示找不到命令，你可以手动把路径添加进去：
+`export PATH=~/miniconda3/bin:$PATH`
 
+为了让你的实验可以完美复现，建议为你使用的包[创建一个 Conda 环境](https://conda.io/docs/user-guide/tasks/manage-environments.html)：
+`conda create --name ml_genomics python jupyter`
+
+**激活环境**：
+`source activate ml_genomics`
+
+环境准备好后，你可以安装更高级的 `jupyter lab`：
+`conda install -c conda-forge jupyterlab` 或者用 `pip3 install jupyter`。
+
+## 📖 如何利用本资源学习？ (How to learn)
+
+先把 [MachineLearning4Genomics](https://github.com/mbbu/MachineLearning4Genomics) 仓库里的笔记本全部搬回家！最简单的办法就是在你的工作目录里运行：
+
+```bash
+git clone https://github.com/mbbu/MachineLearning4Genomics.git
+
+```
+
+或者使用下载大法：
+
+```bash
+wget https://github.com/mbbu/MachineLearning4Genomics/archive/master.zip
+unzip master.zip
+rm master.zip
+cd MachineLearning4Genomics-master
+
+```
+
+最后，输入咒语启动实验室界面：
 `jupyter lab`
 
-NB: We will use a jupyter lab for training. 
-A Jupyter notebook is made up of many cells. Each cell can contain Python code. You can execute a cell by clicking on it and pressing `Shift-Enter` or `Ctrl-Enter` (run without moving to the next line). 
+---
 
+*注：Jupyter Notebook 由许多“单元格（Cell）”组成。点击单元格并按下 `Shift + Enter`，就能执行里面的 Python 代码啦！快去试试吧！(๑•̀ㅂ•́)و✧*
 
-### Resources to use:
+### 📚 进阶宝库 (Resources to use)
 
-1. [Encoding DNA ](https://medium.com/mlearning-ai/apply-machine-learning-algorithms-for-genomics-data-classification-132972933723)
-2. [Machine Learning in Bioinformatics: Genome Geography:](https://towardsdatascience.com/machine-learning-in-bioinformatics-genome-geography-d1b1dbbfb4c2)From raw sequencing reads to a machine learning model, which infers an individual's geographical origin based on their genomic variation.
-3. [Deep Learning for Genomics](https://colab.research.google.com/github/TankMermaid/1000-genomes-genetic-maps/blob/master/A_Primer_on_Deep_Learning_in_Genomics_Public.ipynb#scrollTo=bzsbNHqWiFek)
-4. [Machine Learning for Genomics](https://towardsdatascience.com/machine-learning-for-genomics-c02270a51795). How to transform your genomics data to fit into machine learning models. 
-5. [Machine Learning For Good](https://github.com/DeltaAnalytics/machine_learning_for_good)
+想要让你的魔法等级再提升一个档次？这些珍贵的卷轴（资源）一定能帮到你哦：
 
-6. [Machine Leaning in Bioinformatics](https://www.theaidream.com/post/explore-the-world-of-bioinformatics-with-machine-learning)
+1. [DNA 编码入门](https://medium.com/mlearning-ai/apply-machine-learning-algorithms-for-genomics-data-classification-132972933723)
+2. [生信中的机器学习：基因组地理学](https://towardsdatascience.com/machine-learning-in-bioinformatics-genome-geography-d1b1dbbfb4c2)：从原始测序读段到机器学习模型，教你如何根据基因变异来推断一个人的地理起源在哪里哦！🌍
+3. [基因组学深度学习实战 (Colab)](https://colab.research.google.com/github/TankMermaid/1000-genomes-genetic-maps/blob/master/A_Primer_on_Deep_Learning_in_Genomics_Public.ipynb#scrollTo=bzsbNHqWiFek)
+4. [基因组学机器学习指南](https://towardsdatascience.com/machine-learning-for-genomics-c02270a51795)：手把手教你如何对基因组数据进行“大变身”，让它们完美适配各种机器学习模型！✨
+5. [向善的机器学习开源项目](https://github.com/DeltaAnalytics/machine_learning_for_good)
+6. [探索生信与机器学习的奇妙世界](https://www.theaidream.com/post/explore-the-world-of-bioinformatics-with-machine-learning)
+7. [基因组学特征工程 - 变异检测篇](https://towardsdatascience.com/machine-learning-in-bioinformatics-genome-geography-d1b1dbbfb4c2)
+8. [用于基因组分类的机器学习咒语](https://medium.com/mlearning-ai/apply-machine-learning-algorithms-for-genomics-data-classification-132972933723)
+9. [支持向量机 (SVM) 的奥秘](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989)
+10. [机器学习背后的数学魔法书 (PDF)](https://mml-book.github.io/book/mml-book.pdf)
+11. [深度学习圣经 - 机器学习基础章](https://www.deeplearningbook.org/contents/ml.html)
 
-7. [Feature Engineering in Genomics - Variant calling](https://towardsdatascience.com/machine-learning-in-bioinformatics-genome-geography-d1b1dbbfb4c2)
+* [DNA 序列机器学习 GitHub 仓库](https://github.com/nageshsinghc4/DNA-Sequence-Machine-learning)
 
-8. [Machine leaning for genomic classification](https://medium.com/mlearning-ai/apply-machine-learning-algorithms-for-genomics-data-classification-132972933723)
+如果你想寻找更多实验素材（数据集）或者在修炼之路上走得更远，快来 [使用 Kaggle](https://www.kaggle.com/nageshsingh/classification-of-cancer) 开启新大陆吧！🏆
 
-9. [Support Vector Machines](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989)
+## 📜 许可证 (License)
 
-10. [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-11. [Deep Learning Book - Machine Learning Chapter](https://www.deeplearningbook.org/contents/ml.html)
+本作品采用 [知识共享署名 4.0 国际许可协议 (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) 进行许可。
 
-- https://github.com/nageshsinghc4/DNA-Sequence-Machine-learning
-
-To Find datasets and get learning even further, [use Kaggle](https://www.kaggle.com/nageshsingh/classification-of-cancer)
-
-
-## How to Contribute
-
-To contribute, fork the repository, make some updates and send me a pull request. 
-
-Alternatively, you can open an issue. 
-
-## License
-This work is licensed under the Creative Commons Attribution 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+只要你记得标注原作者的劳动成果，就可以自由地分享和魔改这些内容啦！希望你在赛博生信的世界里玩得开心！(๑•̀ㅂ•́)و✧
