@@ -9,7 +9,7 @@
 
 为了不让大家掉队（特别是顺手解决某人的困扰），本魔女决定帮大家一把，一起开启这段赛博生信之旅吧！✧(≖ ◡ ≖✿)
 
-注：本项目 fork 自https://github.com/mbbu/MachineLearning4Genomics，感谢原作者的杰出工作！
+注：本项目 fork 自 [https://github.com/mbbu/MachineLearning4Genomics]，感谢原作者的杰出工作！
 
 ### 🛠️ 学习能力值 (Competencies)
 
